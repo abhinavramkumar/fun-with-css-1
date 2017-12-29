@@ -1,0 +1,4 @@
+// sass files
+*.scss
+*.css.map
+.sass-cache
